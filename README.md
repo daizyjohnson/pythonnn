@@ -24,3 +24,4 @@ name – псевдоним учетной записи, который буде
 
 - jcho|changepasswordlater|jcho@domain.com|Jon Cho|GISProfessional|admin|GIS Manager 
 ![](https://avatars.mds.yandex.net/get-zen_doc/2977209/pub_5fa5166f1aeb58326ca04d85_5fa517748eb5b23a308f74d6/scale_1200)
+спасибо за внимание, вот вам енотик с пиццей 
