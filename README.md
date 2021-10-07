@@ -23,5 +23,4 @@ name – псевдоним учетной записи, который буде
 Ниже представлен пример записи, добавляющей встроенную учетную запись портала с именем пользователя jcho для Jon Cho и адресом электронной почты jcho@domain.com. Этой же записью для jcho назначается роль администратора с описанием ГИС-менеджер.
 
 - jcho|changepasswordlater|jcho@domain.com|Jon Cho|GISProfessional|admin|GIS Manager 
-
-https://www.google.ru/urlsa=i&url=https%3A%2F%2Fwww.kinopoisk.ru%2Fseries%2F880658%2F&psig=AOvVaw1ZYpIyG_qsscfcBPZNgO0Q&ust=1633677575478000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDInbjht_MCFQAAAAAdAAAAABAJ
+![](https://avatars.mds.yandex.net/get-zen_doc/2977209/pub_5fa5166f1aeb58326ca04d85_5fa517748eb5b23a308f74d6/scale_1200)
