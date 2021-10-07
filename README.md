@@ -24,4 +24,4 @@ name – псевдоним учетной записи, который буде
 
 - jcho|changepasswordlater|jcho@domain.com|Jon Cho|GISProfessional|admin|GIS Manager 
 
-![](https://www.google.ru/urlsa=i&url=https%3A%2F%2Fwww.kinopoisk.ru%2Fseries%2F880658%2F&psig=AOvVaw1ZYpIyG_qsscfcBPZNgO0Q&ust=1633677575478000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDInbjht_MCFQAAAAAdAAAAABAJ)
+! [](https://www.google.ru/urlsa=i&url=https%3A%2F%2Fwww.kinopoisk.ru%2Fseries%2F880658%2F&psig=AOvVaw1ZYpIyG_qsscfcBPZNgO0Q&ust=1633677575478000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDInbjht_MCFQAAAAAdAAAAABAJ)
